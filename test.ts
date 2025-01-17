@@ -6,8 +6,8 @@ const wrap_sol_path = path.join(__dirname, 'src/helpers/wrap_sol.ts');
 const unwrap_sol_path = path.join(__dirname, 'src/helpers/unwrap_sol.ts');   
 const create_token_path = path.join(__dirname, 'src/token/create.ts');
 const burn_token_path = path.join(__dirname, 'src/token/burn.ts');
-const copy_trade_path = path.join(__dirname, 'src/grpc_streaming_dev/grpc-copy-bot/src/streaming/copy-trade.ts');
-const pumpfun_sniper_path = path.join(__dirname, 'src/grpc_streaming_dev/grpc-pf-sniper/src/streaming/snipe-create.ts');
+const copy_trade_path = path.join(__dirname, 'src/grpc-copy-bot/src/streaming/copy-trade.ts');
+const pumpfun_sniper_path = path.join(__dirname, 'src/grpc-pf-sniper/src/streaming/snipe-create.ts');
 async function runSHScript(scriptPath: string) {
     return new Promise((resolve, reject) => {
         const child = spawn('ts-node', [scriptPath, " -h"], {
