@@ -1,15 +1,15 @@
 {
-  "name": "solana-trading-cli",
+  "name": "grpc trading tool",
   "version": "1.0.0",
-  "description": "Best development tool for Algo Trading on Solana",
+  "description": "grpc copy trading sniper bot",
   "main": "help.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "vincentso",
-  "url": "https://github.com/outsmartchad/solana-trading-cli/issues",
-  "homepage": "https://github.com/outsmartchad/solana-trading-cli",
+  "url": "https://github.com/0xTan1319/grpc-copy-trading-sniper-bot/issues",
+  "homepage": "https://github.com/0xTan1319/grpc-copy-trading-sniper-bot",
   "license": "ISC",
   "dependencies": {
     "@bloxroute/solana-trader-client-ts": "^2.1.6",

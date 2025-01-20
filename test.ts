@@ -45,3 +45,6 @@ async function test(){
     logger.info("All tests passed!");
 }
 test();
+
+
+//if u need working copy_trade_path, plz contact here: https://t.me/shiny0103
