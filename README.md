@@ -35,6 +35,10 @@
 
 ### Verify For This Bot
 
+   - Demo video:
+
+     [pumpfun sniper bot with grpc(buy token within 2s)](https://github.com/0xTan1319/grpc-copy-trading-sniper-bot/blob/main/Pumpfun-sniper-grpc-within-2block.mp4)
+
    - Geyser gRPC Pump.fun Sniper Bot (Beta): 
       
       `https://solscan.io/account/TSLvdd1pWpHVjahSpsvCXUbgwsL3JAcvokwaKt1eokM`
