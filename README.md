@@ -37,7 +37,11 @@
 
    - Demo video:
 
-     [pumpfun sniper bot with grpc(buy token within 2s)](https://github.com/0xTan1319/grpc-copy-trading-sniper-bot/blob/main/Pumpfun-sniper-grpc-within-2block.mp4)
+     [pumpfun sniper bot with grpc(buy token within 2s)](https://x.com/0xTan1319/status/1889395901938209056)
+
+   - Buy & Sell
+
+     <a href="https://ibb.co/ks51qyxT"><img src="https://i.ibb.co/ks51qyxT/buy-2block.png" alt="buy-2block" border="0"></a> <a href="https://ibb.co/bMtsFKqL"><img src="https://i.ibb.co/bMtsFKqL/mint-2block.png" alt="mint-2block" border="0"></a>
 
    - Geyser gRPC Pump.fun Sniper Bot (Beta): 
       
@@ -51,6 +55,12 @@
       sell:
       https://solscan.io/tx/5QDYSiST7KX9viNZXSeSATZYMJ5ioJrHJxqu9DVwFzREMarwwmaDXz7EYS1jC9oQq8z7V8GwTsEv94dSwdhU9s5b
       ```
+
+   - Copy trading Test results
+     
+      -- Target transaction: `https://solscan.io/tx/3REXjQfCAGFvj3eYM6LEZrPVCbH3UNeBC1MW6eXTFqq9uamEhRNSfbLmjrkkj1GeDRajZLwQFFFV9FDDMHcu1Lhm`
+
+      -- Copy transaction: `https://solscan.io/tx/4ciUpbved6zjXxSRqnkhY4TeZvzsUVrJb4wdcWLAppJftwgNfMB8dFVHPPrKi3LRJgYuFVztdVCZSrXxzte2ftsj`
 
 ### Extensibility
    
