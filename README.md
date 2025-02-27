@@ -73,7 +73,7 @@
 
    - Demo video:
 
-     [Copy trading bot](https://github.com/user-attachments/assets/700cfd4e-847f-4ce7-bc20-6bf15fb4b00a)
+     [Copy trading bot](https://github.com/user-attachments/assets/8fb518af-b54b-4bd6-a50a-cb206ff041a8)
    
    - Copy trading Test results
      
