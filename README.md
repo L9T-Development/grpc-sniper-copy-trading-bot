@@ -2,11 +2,11 @@
 
 ## Contact
 
-   if you need help or upgraded version, plz contact here: 
+   If you need help or upgraded version, plz contact here: 
    
-   [Telegram:0xTan1319](https://t.me/shiny0103)
+   [Telegram](https://t.me/shiny0103)
    
-   [Telegram:0xTan1319](https://x.com/0xTan1319)
+   [Telegram](https://x.com/0xTan1319)
   
 ## Key Features
 
@@ -16,6 +16,16 @@
 
    | Jupiter  | Raydium  | Orca | Meteora  | Pump.fun  | Integrated support |
 
+   - Copy trading: Automatically replicates trades from a target address.
+     
+   - MEV Protection: Uses Jito block engine for front-running protection.
+
+   - Customizable Trading Settings: Supports slippage control, retry mechanisms, and fee optimization.
+   
+   - Efficient Transaction Execution: Leverages Jito and custom compute unit settings for optimal gas fees.
+   
+   - Cross-Platform Compatibility: Works on both Windows and Linux.
+     
 ### Low-Latency Infrastructure
 
    Accelerate transaction finality using Jito and bloXroute for lightning-fast trades. Both capable of pushing your trasaction faster then any other service provider on the market
@@ -34,6 +44,8 @@
    - Market cap
 
 ### Verify For This Bot
+
+   1. Pumpfun grpc sniper
 
    - Demo video:
 
@@ -54,13 +66,24 @@
       buy: https://solscan.io/tx/5NV4oAJacFfNffAb55hkb6LEKsSTjgMd8vTzTvDKBLQvQ5XCogizBLShnpF89J8tqFrYJAHaUS5tmXtb6SBpEdNz
       sell:
       https://solscan.io/tx/5QDYSiST7KX9viNZXSeSATZYMJ5ioJrHJxqu9DVwFzREMarwwmaDXz7EYS1jC9oQq8z7V8GwTsEv94dSwdhU9s5b
-      ```
 
+      ```
+      
+   2. Copy trading bot
+
+   - Demo video:
+
+     [Copy trading bot](https://github.com/user-attachments/assets/700cfd4e-847f-4ce7-bc20-6bf15fb4b00a)
+   
    - Copy trading Test results
      
-      -- Target transaction: `https://solscan.io/tx/3REXjQfCAGFvj3eYM6LEZrPVCbH3UNeBC1MW6eXTFqq9uamEhRNSfbLmjrkkj1GeDRajZLwQFFFV9FDDMHcu1Lhm`
+      -- Target buy tx: [https://solscan.io/tx/5tebXLW6pt1gtVwz2bsGMqE38hGhaJnpYykLhgVEt46QcRPqRo9MYdHazVaGkxSxQdBPKYF4SnMr6eETumtPoFCZ](https://solscan.io/tx/5tebXLW6pt1gtVwz2bsGMqE38hGhaJnpYykLhgVEt46QcRPqRo9MYdHazVaGkxSxQdBPKYF4SnMr6eETumtPoFCZ)
 
-      -- Copy transaction: `https://solscan.io/tx/4ciUpbved6zjXxSRqnkhY4TeZvzsUVrJb4wdcWLAppJftwgNfMB8dFVHPPrKi3LRJgYuFVztdVCZSrXxzte2ftsj`
+      -- Copy tx: [https://solscan.io/tx/4hdT1DcMnfqgf3x4F4KvtuP3NFAQHzH7h7sAJhdZx87uJPtvoYCoJ6nZk27pAYNYWZ7NF2m5xwssCc5JASPgi4dR](https://solscan.io/tx/4hdT1DcMnfqgf3x4F4KvtuP3NFAQHzH7h7sAJhdZx87uJPtvoYCoJ6nZk27pAYNYWZ7NF2m5xwssCc5JASPgi4dR)
+
+      -- Target sell tx: [https://solscan.io/tx/eETkb2ZyN1A5YKedGkSwcufVw8UznmH374NpR3R9ywQN6jG5BdzoVMK63ZFm9Hs6jQATr2sYpcDmpAAJaNajfmu](https://solscan.io/tx/eETkb2ZyN1A5YKedGkSwcufVw8UznmH374NpR3R9ywQN6jG5BdzoVMK63ZFm9Hs6jQATr2sYpcDmpAAJaNajfmu)
+
+      -- Copy sell tx: [https://solscan.io/tx/3bcpUucuraFsDVm3RFbGuL6AmWc67k37yk315jvxDCDcME1LE6Q4i1wyNT6CuN56W9tSTuj13cuNL7PcJUehZ7BF](https://solscan.io/tx/3bcpUucuraFsDVm3RFbGuL6AmWc67k37yk315jvxDCDcME1LE6Q4i1wyNT6CuN56W9tSTuj13cuNL7PcJUehZ7BF)
 
 ### Extensibility
    
