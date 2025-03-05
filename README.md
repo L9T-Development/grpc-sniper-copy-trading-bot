@@ -1,4 +1,4 @@
-# GRPC Copy Trading Sniper Bot
+# Pumpfun Copy Trading Sniper Bot with GRPC
 
 ## Contact
 
