@@ -6,7 +6,7 @@
    
    [Telegram](https://t.me/shiny0103)
    
-   [Telegram](https://x.com/0xTan1319)
+   [Twitter](https://x.com/0xTan1319)
   
 ## Key Features
 
